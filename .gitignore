@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.log
